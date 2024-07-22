@@ -15,6 +15,8 @@ The system uses multiple IP cameras to capture video streams of the production l
 - Azure account with access to Custom Vision
 - Docker installed on the Jetson Nano
 - NVIDIA DeepStream SDK
+  ![image](https://github.com/user-attachments/assets/d87aa581-a161-47cd-91a7-e34e0f78244a)
+
 
 ### Installation
 
