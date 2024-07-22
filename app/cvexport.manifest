@@ -1,0 +1,13 @@
+{
+  "DomainType": "ObjectDetection",
+  "Platform": "DockerFile",
+  "Flavor": "Linux",
+  "ExporterVersion": "2.2",
+  "ExportedDate": "2024-07-22T07:46:35.9128323Z",
+  "IterationId": "acdcf24f-37b2-436e-8bca-9ebfdc0026bb",
+  "ModelFileName": "model.tflite",
+  "LabelFileName": "labels.txt",
+  "MetadataPropsFileName": "metadata_properties.json",
+  "ModelFileSHA1": "4e903ed39b48936d8bd14e6c34a42425ba80f148",
+  "SchemaVersion": "1.0"
+}
