@@ -8,6 +8,10 @@ The system uses multiple IP cameras to capture video streams of the production l
 
 ## Getting Started
 
+
+https://github.com/user-attachments/assets/c7ed5081-0e97-4c98-9caa-f730f7ed21b2
+
+
 ### Prerequisites
 
 - Jetson Nano Developer Kit
