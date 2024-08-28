@@ -9,7 +9,11 @@ The system uses multiple IP cameras to capture video streams of the production l
 ## Getting Started
 
 
-https://github.com/user-attachments/assets/c7ed5081-0e97-4c98-9caa-f730f7ed21b2
+https://github.com/user-attachments/assets/97788ccf-8d09-44f2-a5e3-ce049c8de1ae
+
+
+
+
 
 
 ### Prerequisites
