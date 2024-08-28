@@ -51,9 +51,9 @@ Run the Dockerfile. The application will start processing video streams from the
 5. Open a Pull Request
 
 ## Resources:
-Jetson GPIO python library: NVIDIA/jetson-gpio: A Python library that enables the use of Jetson's GPIOs (github.com)
-
-combined with the DeepStream SDK python bindings (for running your model and calling out to Jetson GPIO: NVIDIA-AI-IOT/deepstream_python_apps: DeepStream SDK Python bindings and sample applications (github...
+Jetson GPIO python library: https://github.com/NVIDIA/jetson-gpio
+combined with the DeepStream SDK python bindings (for running your model and calling out to Jetson GPIO: https://github.com/NVIDIA-AI-IOT/deepstream_python_apps.git
+Azure Custom Vision : https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision
 
 ## Presentation for Demo Day
 https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/Ec5RKjCSiURMqYaywyYSSrMBmdXTkMTwPP1k6TWH_eVL5Q?e=ArHD9z
