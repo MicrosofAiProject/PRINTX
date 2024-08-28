@@ -50,6 +50,11 @@ Run the Dockerfile. The application will start processing video streams from the
 4. Push to the Branch 
 5. Open a Pull Request
 
+## Resources:
+Jetson GPIO python library: NVIDIA/jetson-gpio: A Python library that enables the use of Jetson's GPIOs (github.com)
+
+combined with the DeepStream SDK python bindings (for running your model and calling out to Jetson GPIO: NVIDIA-AI-IOT/deepstream_python_apps: DeepStream SDK Python bindings and sample applications (github...
+
 ## Presentation for Demo Day
 https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/Ec5RKjCSiURMqYaywyYSSrMBmdXTkMTwPP1k6TWH_eVL5Q?e=ArHD9z
 
