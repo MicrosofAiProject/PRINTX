@@ -42,6 +42,9 @@ Run the Dockerfile. The application will start processing video streams from the
 4. Push to the Branch 
 5. Open a Pull Request
 
+## Presentation for Demo Day
+https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/Ec5RKjCSiURMqYaywyYSSrMBmdXTkMTwPP1k6TWH_eVL5Q?e=ArHD9z
+
 ## Contact
 
 SHAKTHI LAKMAL - SHATHI.LAKMAL@studentambassadors.com
